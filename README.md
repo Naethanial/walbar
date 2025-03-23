@@ -1,5 +1,5 @@
 # walbar
-A handy python script to customize your polybar with pywal colors.
+A handy python script to customize your polybar with pywal colors. Reset the polybar configuration to include the placeholders, as the script just replaces it with real colors
 
 ## Requirements
 ### Dependencies
